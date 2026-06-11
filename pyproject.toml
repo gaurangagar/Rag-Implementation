@@ -10,4 +10,5 @@ dependencies = [
     "langchain-community>=0.4.2",
     "pymupdf>=1.27.2.3",
     "pypdf>=6.13.2",
+    "sentence-transformers>=5.5.1",
 ]
