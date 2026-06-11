@@ -4,3 +4,4 @@ pymupdf
 pypdf
 sentence_transformers
 faiss-cpu
+langchain_groq
