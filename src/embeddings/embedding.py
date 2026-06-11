@@ -38,4 +38,4 @@ if __name__=='__main__':
     chunked_docs=pipeline.chunk_documents(docs)
     embeddings=pipeline.generate_embeddings(chunked_docs)
     print(len(embeddings))
-    print(embeddings)
+    print(type(embeddings))

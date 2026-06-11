@@ -3,3 +3,4 @@ langchain_community
 pymupdf
 pypdf
 sentence_transformers
+faiss-cpu

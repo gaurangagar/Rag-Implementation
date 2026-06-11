@@ -12,3 +12,4 @@ wheels/
 .env
 
 data
+faiss_store
